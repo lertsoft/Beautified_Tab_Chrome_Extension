@@ -1,4 +1,4 @@
-# MamiyaRb67-Photos-Chrome-Extension
+# Beautified Tab | MamiyaRb67 Photos Chrome Extension
 Beautiful Images taken by me, <strong>Ronny Coste </strong> since 2020 with my Mamiya RB67
 
 ## Live Preview
